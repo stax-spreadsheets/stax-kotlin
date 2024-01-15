@@ -1,3 +1,6 @@
+# Project moved to codeberg!:
+https://codeberg.org/stax/stax-kotlin
+
 # kotlin implementation of stax
 #### This project uses:
 * korge 4
